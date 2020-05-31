@@ -9,3 +9,4 @@ Udemy「React Native入門」のサンプル
 
 # expoでの配布
 https://expo.io/@musashi0128/news-app-react-native
+* 実機での確認にはexpo clientアプリのインストールが必要
